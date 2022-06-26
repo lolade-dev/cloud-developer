@@ -10,7 +10,7 @@ export const config = {
     "aws_media_bucket": "udagram-lola-dev"
   },
   "jwt": {
-    "secret": " "
+    "secret": "hello"
   },
   "prod": {
     "username": "",
